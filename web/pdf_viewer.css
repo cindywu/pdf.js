@@ -17,6 +17,7 @@
 
 .pdfViewer .canvasWrapper {
   overflow: hidden;
+  filter: invert(1);
 }
 
 .pdfViewer .page {
